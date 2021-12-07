@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d9e15c8-508d-4f8a-aacc-01716f2843e3": {
+      "ProjectGuid": "2d9e15c8-508d-4f8a-aacc-01716f2843e3",
+      "DisplayName": "PythonCRUD",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
